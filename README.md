@@ -6,4 +6,7 @@ When two or more components need access to the same state, we move the state int
 So when two or more component need access to the same state, we move the state into their common parent. 
 This is calles lifting state up.
 
-Often, several components need to reflect the same changing data. We recommend lifting the shared state up to their closest common ancestor
+Often, several components need to reflect the same changing data. We recommend lifting the shared state up to their 
+closest common ancestor
+
+https://teamtreehouse.com/library/controlled-components
