@@ -1,6 +1,6 @@
 ## scoreboard 3
-###React Componets
-####Lifting State up 
+### React Componets
+#### Lifting State up 
 When two or more components need access to the same state, we move the state into their common parent. This is called 
 "lifting state up".
 So when two or more component need access to the same state, we move the state into their common parent. 
